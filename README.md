@@ -1,4 +1,5 @@
 ## Maintained by Crypto and Coffee
+/root/.axs is location of the build and axsd is available in /usr/local/bin
 
 ## The new version of wallet [v2.0.0](https://github.com/axsgold/axs/releases)
 
