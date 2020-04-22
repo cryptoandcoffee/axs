@@ -1,3 +1,5 @@
+## Maintained by Crypto and Coffee
+
 ## The new version of wallet [v2.0.0](https://github.com/axsgold/axs/releases)
 
 - Website: https://axs.gold
